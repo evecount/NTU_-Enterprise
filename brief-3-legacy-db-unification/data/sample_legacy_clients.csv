@@ -1,0 +1,6 @@
+legacy_id,company_or_name,phone,email,postal_code,last_active_year,status_note
+C-001,Tan Ah Kow Auto Workshop,91234567,ahkow@example.com,534123,2024,Active
+C-002,Tan Ah Kow Auto Wkshp Pte Ltd,+65 9123 4567,ahkow@example.com,,2025,Duplicate branch
+C-003,Lim Mei Ling,8234-5678,meiling.lim@example.com,S(139951),2018,Dormant?
+C-004,Apex Euro Parts Pte Ltd,65-6450-1122,,139951,2026,Missing email
+C-005,APEX EURO PARTS PTE. LTD.,64501122,sales@apexeuro.example.com,139951,2026,Active

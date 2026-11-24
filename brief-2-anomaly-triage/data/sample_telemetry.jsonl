@@ -1,0 +1,4 @@
+{"tx_id": "tx_9001", "dept": "sales", "event": "order_created", "latency_ms": 142, "status": "ok", "ts": "2026-11-21T10:00:01Z"}
+{"tx_id": "tx_9001", "dept": "sales", "event": "order_created", "latency_ms": 145, "status": "ok", "ts": "2026-11-21T10:00:03Z"}
+{"tx_id": "tx_9002", "dept": "service_repair", "event": "webhook_dispatch", "latency_ms": 18420, "status": "timeout", "ts": "2026-11-21T10:01:12Z"}
+{"tx_id": "tx_9003", "dept": "distribution", "event": "fulfillment_ack", "latency_ms": 95, "status": "stalled", "ts": "2026-11-21T10:05:00Z"}

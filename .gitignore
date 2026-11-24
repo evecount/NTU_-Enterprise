@@ -1,0 +1,14 @@
+# Local meeting transcripts, raw email exports, and secrets
+LIVE_LECTURE_NOTES.md
+email_attachments/
+*.pdf
+!docs/*.pdf
+
+# Python / Node / OS artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
