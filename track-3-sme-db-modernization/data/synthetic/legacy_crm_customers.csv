@@ -1,0 +1,501 @@
+legacy_id,entity_name,phone,email,postal_code,last_active_year,status_note
+LEG_0435,Tampines  Cold  Chain  10,+65 9667 8044,contact115@synthetic-sme.example.com,8018,2014,Dormant
+LEG_0264,Tan Ah Kow Motor 23 Co.,99577712,contact264@synthetic-sme.example.com,813534,2018,Active
+LEG_0063,Sentosa Precision Auto 6 PTE. LTD.,89509040,contact63@synthetic-sme.example.com,137637,2022,Active
+LEG_0460,WOODLANDS HARDWARE 12,+65 8899 5273,,,2023,Duplicate?
+LEG_0260,Woodlands Hardware 22 Co.,98590070,contact260@synthetic-sme.example.com,677505,2017,Active
+LEG_0306,Kallang Marine Supply 26 Co.,96072192,contact306@synthetic-sme.example.com,409212,2026,Active
+LEG_0222,Kallang Marine Supply 19 Enterprise,83807840,contact222@synthetic-sme.example.com,452960,2020,Active
+LEG_0246,Kallang Marine Supply 21 Pte Ltd,94703113,contact246@synthetic-sme.example.com,191214,2020,Active
+LEG_0462,CLEMENTI DENTAL CARE 12,65-94349848,contact142@synthetic-sme.example.com,S(404965),2013,Duplicate?
+LEG_0481,Geylang  Tyre  &  Battery  14,+65 9428 9394,contact161@synthetic-sme.example.com,2834,2025,Active
+LEG_0090,Kallang Marine Supply 8 Enterprise,85755579,contact90@synthetic-sme.example.com,204548,2016,Active
+LEG_0119,Bedok Catering Co 10,81633429,contact119@synthetic-sme.example.com,597564,2025,Active
+LEG_0480,BUKIT MERAH WELLNESS 14,9495-6154,,S(818081),2025,Duplicate?
+LEG_0250,Clementi Dental Care 21,82180916,contact250@synthetic-sme.example.com,482276,2019,Active
+LEG_0351,Tampines  Cold  Chain  3,9274-3602,contact31@synthetic-sme.example.com,S(369810),2014,Duplicate?
+LEG_0261,Toa Payoh Optical 22,81581546,contact261@synthetic-sme.example.com,461267,2025,Active
+LEG_0362,KALLANG MARINE SUPPLY 4 PTE. LTD.,8995-0103,contact42@synthetic-sme.example.com,3832,2025,Dormant
+LEG_0401,Toa  Payoh  Optical  7 PTE. LTD.,+65 8485 8604,contact81@synthetic-sme.example.com,1994,2023,Dormant
+LEG_0029,Geylang Tyre & Battery 3,83808418,contact29@synthetic-sme.example.com,789736,2025,Active
+LEG_0265,Lim Mei Ling Trading 23 Enterprise,81633110,contact265@synthetic-sme.example.com,686827,2022,Active
+LEG_0466,APEX EURO PARTS 13,+65 8909 1518,contact146@synthetic-sme.example.com,,2017,Duplicate?
+LEG_0023,Bedok Catering Co 2 Co.,82924714,contact23@synthetic-sme.example.com,548301,2021,Active
+LEG_0103,Tampines Cold Chain 9 Enterprise,94900918,contact103@synthetic-sme.example.com,205641,2021,Active
+LEG_0174,Kallang Marine Supply 15 Enterprise,98076906,contact174@synthetic-sme.example.com,612168,2016,Active
+LEG_0285,Toa Payoh Optical 24 Co.,98105832,contact285@synthetic-sme.example.com,566706,2018,Active
+LEG_0050,Apex Euro Parts 5 Co.,92227162,contact50@synthetic-sme.example.com,472103,2022,Active
+LEG_0025,Lim Mei Ling Trading 3 Co.,92902100,contact25@synthetic-sme.example.com,595203,2022,Active
+LEG_0152,Woodlands Hardware 13 Co.,96295749,contact152@synthetic-sme.example.com,111193,2016,Active
+LEG_0292,Bukit Merah Wellness 25 Co.,98550780,contact292@synthetic-sme.example.com,701372,2025,Active
+LEG_0336,BUKIT MERAH WELLNESS 2,8605-2539,,7268,2012,Active
+LEG_0442,APEX EURO PARTS 11,9426-7304,contact122@synthetic-sme.example.com,S(149364),2021,Dormant
+LEG_0305,Geylang Tyre & Battery 26 Pte Ltd,81308234,contact305@synthetic-sme.example.com,546765,2018,Active
+LEG_0249,Toa Payoh Optical 21 Co.,91978112,contact249@synthetic-sme.example.com,449667,2019,Active
+LEG_0191,Bedok Catering Co 16 Pte Ltd,82502467,contact191@synthetic-sme.example.com,666044,2017,Active
+LEG_0318,Kallang Marine Supply 27,86346688,contact318@synthetic-sme.example.com,627737,2023,Active
+LEG_0128,Woodlands Hardware 11 Co.,96829664,contact128@synthetic-sme.example.com,454707,2026,Active
+LEG_0467,Sentosa  Precision  Auto  13 PTE. LTD.,+65 9560 9255,contact147@synthetic-sme.example.com,,2023,Dormant
+LEG_0065,Geylang Tyre & Battery 6 Pte Ltd,93493647,contact65@synthetic-sme.example.com,567430,2018,Active
+LEG_0415,Bedok  Catering  Co  8,8282-1504,contact95@synthetic-sme.example.com,1243,2019,Active
+LEG_0367,Bedok  Catering  Co  4,8792-3193,contact47@synthetic-sme.example.com,S(753333),2021,Duplicate?
+LEG_0391,Bedok  Catering  Co  6,8918-1277,contact71@synthetic-sme.example.com,,2026,Dormant
+LEG_0199,Tampines Cold Chain 17 Co.,97347794,contact199@synthetic-sme.example.com,385308,2026,Active
+LEG_0214,Clementi Dental Care 18 Pte Ltd,91211652,contact214@synthetic-sme.example.com,255078,2018,Active
+LEG_0124,Bukit Merah Wellness 11 PTE. LTD.,81004819,contact124@synthetic-sme.example.com,302422,2025,Active
+LEG_0195,Sentosa Precision Auto 17 PTE. LTD.,89253243,contact195@synthetic-sme.example.com,715908,2021,Active
+LEG_0211,Tampines Cold Chain 18 Pte Ltd,86540652,contact211@synthetic-sme.example.com,203393,2020,Active
+LEG_0289,Lim Mei Ling Trading 25,87271672,contact289@synthetic-sme.example.com,292405,2021,Active
+LEG_0293,Geylang Tyre & Battery 25 Co.,94506598,contact293@synthetic-sme.example.com,784471,2026,Active
+LEG_0428,TAN AH KOW MOTOR 10 PTE. LTD.,+65 9525 5251,,,2013,Dormant
+LEG_0048,Tan Ah Kow Motor 5 PTE. LTD.,84086885,contact48@synthetic-sme.example.com,385140,2025,Active
+LEG_0080,Woodlands Hardware 7 PTE. LTD.,89419427,contact80@synthetic-sme.example.com,278207,2025,Active
+LEG_0135,Sentosa Precision Auto 12 PTE. LTD.,89086117,contact135@synthetic-sme.example.com,245224,2020,Active
+LEG_0005,Geylang Tyre & Battery 1,87524435,contact5@synthetic-sme.example.com,409370,2019,Active
+LEG_0458,KALLANG MARINE SUPPLY 12 PTE. LTD.,65-85418274,contact138@synthetic-sme.example.com,,2018,Dormant
+LEG_0328,WOODLANDS HARDWARE 1,8521-6804,,S(358259),2022,Duplicate?
+LEG_0161,Geylang Tyre & Battery 14 Enterprise,94289394,contact161@synthetic-sme.example.com,283450,2022,Active
+LEG_0405,Lim  Mei  Ling  Trading  8,65-99036641,contact85@synthetic-sme.example.com,S(363641),2025,Dormant
+LEG_0086,Apex Euro Parts 8 Enterprise,91376582,contact86@synthetic-sme.example.com,411706,2025,Active
+LEG_0060,Tan Ah Kow Motor 6 Enterprise,99170024,contact60@synthetic-sme.example.com,802783,2017,Active
+LEG_0295,Tampines Cold Chain 25 Co.,93371416,contact295@synthetic-sme.example.com,127170,2022,Active
+LEG_0117,Toa Payoh Optical 10,88913286,contact117@synthetic-sme.example.com,652444,2021,Active
+LEG_0054,Kallang Marine Supply 5 PTE. LTD.,99151398,contact54@synthetic-sme.example.com,676379,2023,Active
+LEG_0008,Woodlands Hardware 1 Pte Ltd,85216804,contact8@synthetic-sme.example.com,358259,2021,Active
+LEG_0110,Apex Euro Parts 10 Co.,87932818,contact110@synthetic-sme.example.com,808904,2024,Active
+LEG_0015,Sentosa Precision Auto 2 PTE. LTD.,81670091,contact15@synthetic-sme.example.com,296285,2019,Active
+LEG_0341,Toa  Payoh  Optical  2 PTE. LTD.,65-86568081,contact21@synthetic-sme.example.com,5269,2014,Active
+LEG_0477,Lim  Mei  Ling  Trading  14,65-94532148,contact157@synthetic-sme.example.com,6370,2014,Dormant
+LEG_0208,Bukit Merah Wellness 18 Enterprise,82513254,contact208@synthetic-sme.example.com,291241,2018,Active
+LEG_0221,Geylang Tyre & Battery 19 Co.,84958849,contact221@synthetic-sme.example.com,656316,2025,Active
+LEG_0364,WOODLANDS HARDWARE 4,65-91187069,,8033,2016,Duplicate?
+LEG_0461,Toa  Payoh  Optical  12 PTE. LTD.,8551-4342,contact141@synthetic-sme.example.com,,2014,Duplicate?
+LEG_0101,Geylang Tyre & Battery 9 Enterprise,89088689,contact101@synthetic-sme.example.com,586742,2016,Active
+LEG_0342,CLEMENTI DENTAL CARE 2,65-94664903,contact22@synthetic-sme.example.com,7787,2025,Dormant
+LEG_0179,Bedok Catering Co 15 PTE. LTD.,83097821,contact179@synthetic-sme.example.com,405122,2021,Active
+LEG_0202,Clementi Dental Care 17 Enterprise,94154127,contact202@synthetic-sme.example.com,183988,2017,Active
+LEG_0061,Lim Mei Ling Trading 6,82375290,contact61@synthetic-sme.example.com,453293,2022,Active
+LEG_0499,Bedok  Catering  Co  15,65-83097821,contact179@synthetic-sme.example.com,,2024,Dormant
+LEG_0212,Woodlands Hardware 18,85471188,contact212@synthetic-sme.example.com,602169,2021,Active
+LEG_0325,Geylang  Tyre  &  Battery  1,8752-4435,contact5@synthetic-sme.example.com,4093,2019,Active
+LEG_0009,Toa Payoh Optical 1 Pte Ltd,87169672,contact9@synthetic-sme.example.com,794218,2023,Active
+LEG_0494,KALLANG MARINE SUPPLY 15 PTE. LTD.,65-98076906,contact174@synthetic-sme.example.com,,2022,Duplicate?
+LEG_0217,Lim Mei Ling Trading 19 Co.,88932696,contact217@synthetic-sme.example.com,596113,2016,Active
+LEG_0424,WOODLANDS HARDWARE 9,+65 9532 5249,,,2023,Active
+LEG_0434,KALLANG MARINE SUPPLY 10 PTE. LTD.,8268-2396,contact114@synthetic-sme.example.com,,2017,Duplicate?
+LEG_0291,Sentosa Precision Auto 25 Pte Ltd,91230406,contact291@synthetic-sme.example.com,532823,2019,Active
+LEG_0178,Clementi Dental Care 15,97945583,contact178@synthetic-sme.example.com,314012,2018,Active
+LEG_0243,Sentosa Precision Auto 21 Pte Ltd,84390323,contact243@synthetic-sme.example.com,238952,2022,Active
+LEG_0281,Geylang Tyre & Battery 24 Enterprise,93187332,contact281@synthetic-sme.example.com,278879,2022,Active
+LEG_0338,KALLANG MARINE SUPPLY 2 PTE. LTD.,+65 8973 4324,contact18@synthetic-sme.example.com,S(189276),2016,Active
+LEG_0425,Toa  Payoh  Optical  9 PTE. LTD.,+65 8976 6777,contact105@synthetic-sme.example.com,,2014,Active
+LEG_0319,Tampines Cold Chain 27 PTE. LTD.,98432381,contact319@synthetic-sme.example.com,453489,2024,Active
+LEG_0129,Toa Payoh Optical 11 Pte Ltd,88629590,contact129@synthetic-sme.example.com,611076,2019,Active
+LEG_0421,Geylang  Tyre  &  Battery  9,8908-8689,contact101@synthetic-sme.example.com,,2026,Duplicate?
+LEG_0137,Geylang Tyre & Battery 12 Enterprise,97919359,contact137@synthetic-sme.example.com,559462,2020,Active
+LEG_0282,Kallang Marine Supply 24 Enterprise,89184951,contact282@synthetic-sme.example.com,604212,2017,Active
+LEG_0043,Tampines Cold Chain 4 Enterprise,95948917,contact43@synthetic-sme.example.com,285883,2025,Active
+LEG_0052,Bukit Merah Wellness 5 Pte Ltd,96991787,contact52@synthetic-sme.example.com,264842,2018,Active
+LEG_0166,Clementi Dental Care 14 Enterprise,84614941,contact166@synthetic-sme.example.com,428807,2021,Active
+LEG_0194,Apex Euro Parts 17,86769431,contact194@synthetic-sme.example.com,468687,2020,Active
+LEG_0252,Tan Ah Kow Motor 22 Co.,89919792,contact252@synthetic-sme.example.com,594104,2022,Active
+LEG_0329,Toa  Payoh  Optical  1 PTE. LTD.,8716-9672,contact9@synthetic-sme.example.com,S(794218),2020,Active
+LEG_0160,Bukit Merah Wellness 14 Enterprise,94956154,contact160@synthetic-sme.example.com,818081,2016,Active
+LEG_0300,Tan Ah Kow Motor 26,97484783,contact300@synthetic-sme.example.com,397237,2022,Active
+LEG_0018,Kallang Marine Supply 2 Enterprise,89734324,contact18@synthetic-sme.example.com,189276,2022,Active
+LEG_0168,Tan Ah Kow Motor 15 Co.,97044941,contact168@synthetic-sme.example.com,815222,2017,Active
+LEG_0130,Clementi Dental Care 11,93936596,contact130@synthetic-sme.example.com,629294,2022,Active
+LEG_0068,Woodlands Hardware 6 PTE. LTD.,85007754,contact68@synthetic-sme.example.com,319423,2018,Active
+LEG_0172,Bukit Merah Wellness 15,98498243,contact172@synthetic-sme.example.com,207243,2020,Active
+LEG_0127,Tampines Cold Chain 11 Pte Ltd,82512732,contact127@synthetic-sme.example.com,805661,2016,Active
+LEG_0283,Tampines Cold Chain 24,85065372,contact283@synthetic-sme.example.com,195362,2016,Active
+LEG_0438,CLEMENTI DENTAL CARE 10,+65 8541 3951,contact118@synthetic-sme.example.com,,2013,Active
+LEG_0429,Lim  Mei  Ling  Trading  10,9713-4489,contact109@synthetic-sme.example.com,S(457511),2015,Duplicate?
+LEG_0140,Woodlands Hardware 12 Pte Ltd,88995273,contact140@synthetic-sme.example.com,506792,2026,Active
+LEG_0038,Apex Euro Parts 4 Pte Ltd,82060950,contact38@synthetic-sme.example.com,152189,2019,Active
+LEG_0102,Kallang Marine Supply 9 Pte Ltd,88138527,contact102@synthetic-sme.example.com,275170,2020,Active
+LEG_0475,Bedok  Catering  Co  13,9497-8534,contact155@synthetic-sme.example.com,S(448722),2012,Dormant
+LEG_0451,Bedok  Catering  Co  11,+65 8221 4435,contact131@synthetic-sme.example.com,S(745821),2013,Active
+LEG_0314,Apex Euro Parts 27 Co.,86184132,contact314@synthetic-sme.example.com,773215,2022,Active
+LEG_0040,Bukit Merah Wellness 4 Co.,92451316,contact40@synthetic-sme.example.com,468170,2020,Active
+LEG_0402,CLEMENTI DENTAL CARE 7,+65 9454 8668,contact82@synthetic-sme.example.com,S(294062),2020,Dormant
+LEG_0482,KALLANG MARINE SUPPLY 14 PTE. LTD.,65-91163448,contact162@synthetic-sme.example.com,,2021,Dormant
+LEG_0426,CLEMENTI DENTAL CARE 9,+65 8729 1957,contact106@synthetic-sme.example.com,3661,2025,Duplicate?
+LEG_0322,APEX EURO PARTS 1,8580-8610,contact2@synthetic-sme.example.com,4233,2023,Dormant
+LEG_0209,Geylang Tyre & Battery 18 Enterprise,94643811,contact209@synthetic-sme.example.com,537885,2025,Active
+LEG_0374,KALLANG MARINE SUPPLY 5 PTE. LTD.,+65 9915 1398,contact54@synthetic-sme.example.com,,2012,Active
+LEG_0132,Tan Ah Kow Motor 12 Enterprise,92963085,contact132@synthetic-sme.example.com,755222,2021,Active
+LEG_0491,Sentosa  Precision  Auto  15 PTE. LTD.,65-96957741,contact171@synthetic-sme.example.com,5193,2015,Duplicate?
+LEG_0046,Clementi Dental Care 4 Co.,86111869,contact46@synthetic-sme.example.com,366633,2017,Active
+LEG_0049,Lim Mei Ling Trading 5,82923047,contact49@synthetic-sme.example.com,331891,2018,Active
+LEG_0019,Tampines Cold Chain 2 PTE. LTD.,87978168,contact19@synthetic-sme.example.com,799798,2026,Active
+LEG_0463,Bedok  Catering  Co  12,+65 9446 9169,contact143@synthetic-sme.example.com,S(394322),2019,Active
+LEG_0192,Tan Ah Kow Motor 17,97915632,contact192@synthetic-sme.example.com,433551,2026,Active
+LEG_0278,Apex Euro Parts 24 PTE. LTD.,93483236,contact278@synthetic-sme.example.com,266507,2019,Active
+LEG_0139,Tampines Cold Chain 12 Enterprise,87692945,contact139@synthetic-sme.example.com,532245,2016,Active
+LEG_0433,Geylang  Tyre  &  Battery  10,65-82997927,contact113@synthetic-sme.example.com,,2024,Duplicate?
+LEG_0158,Apex Euro Parts 14 Enterprise,97720828,contact158@synthetic-sme.example.com,458384,2021,Active
+LEG_0204,Tan Ah Kow Motor 18,95565653,contact204@synthetic-sme.example.com,724076,2024,Active
+LEG_0013,Lim Mei Ling Trading 2 Co.,95433204,contact13@synthetic-sme.example.com,263636,2023,Active
+LEG_0198,Kallang Marine Supply 17,97622840,contact198@synthetic-sme.example.com,413675,2021,Active
+LEG_0395,Sentosa  Precision  Auto  7 PTE. LTD.,+65 9273 1828,contact75@synthetic-sme.example.com,S(765480),2022,Duplicate?
+LEG_0449,Toa  Payoh  Optical  11 PTE. LTD.,8862-9590,contact129@synthetic-sme.example.com,6110,2017,Dormant
+LEG_0253,Lim Mei Ling Trading 22 Pte Ltd,89828037,contact253@synthetic-sme.example.com,413931,2021,Active
+LEG_0081,Toa Payoh Optical 7 Co.,84858604,contact81@synthetic-sme.example.com,199430,2023,Active
+LEG_0386,KALLANG MARINE SUPPLY 6 PTE. LTD.,65-85882155,contact66@synthetic-sme.example.com,,2016,Dormant
+LEG_0014,Apex Euro Parts 2 Co.,91094709,contact14@synthetic-sme.example.com,528640,2018,Active
+LEG_0307,Tampines Cold Chain 26 Co.,92040350,contact307@synthetic-sme.example.com,427343,2018,Active
+LEG_0159,Sentosa Precision Auto 14 Pte Ltd,83200150,contact159@synthetic-sme.example.com,392636,2018,Active
+LEG_0004,Bukit Merah Wellness 1,87017692,contact4@synthetic-sme.example.com,672679,2025,Active
+LEG_0339,Tampines  Cold  Chain  2,8797-8168,contact19@synthetic-sme.example.com,,2016,Dormant
+LEG_0131,Bedok Catering Co 11 Co.,82214435,contact131@synthetic-sme.example.com,745821,2016,Active
+LEG_0355,Bedok  Catering  Co  3,65-84819259,contact35@synthetic-sme.example.com,4376,2019,Active
+LEG_0310,Clementi Dental Care 26,99736195,contact310@synthetic-sme.example.com,397837,2022,Active
+LEG_0373,Geylang  Tyre  &  Battery  5,+65 8578 3807,contact53@synthetic-sme.example.com,S(184170),2016,Dormant
+LEG_0066,Kallang Marine Supply 6 Enterprise,85882155,contact66@synthetic-sme.example.com,278613,2025,Active
+LEG_0111,Sentosa Precision Auto 10 PTE. LTD.,87211142,contact111@synthetic-sme.example.com,818925,2019,Active
+LEG_0144,Tan Ah Kow Motor 13 PTE. LTD.,86973148,contact144@synthetic-sme.example.com,292747,2019,Active
+LEG_0123,Sentosa Precision Auto 11 Co.,83843451,contact123@synthetic-sme.example.com,146893,2023,Active
+LEG_0288,Tan Ah Kow Motor 25 Pte Ltd,88389750,contact288@synthetic-sme.example.com,154825,2016,Active
+LEG_0092,Woodlands Hardware 8,87891524,contact92@synthetic-sme.example.com,283979,2025,Active
+LEG_0220,Bukit Merah Wellness 19,87046955,contact220@synthetic-sme.example.com,164568,2025,Active
+LEG_0312,Tan Ah Kow Motor 27 Co.,98535808,contact312@synthetic-sme.example.com,793158,2024,Active
+LEG_0185,Geylang Tyre & Battery 16 Pte Ltd,85767670,contact185@synthetic-sme.example.com,663071,2023,Active
+LEG_0444,BUKIT MERAH WELLNESS 11,8100-4819,,,2015,Duplicate?
+LEG_0030,Kallang Marine Supply 3,82098434,contact30@synthetic-sme.example.com,364492,2024,Active
+LEG_0007,Tampines Cold Chain 1 PTE. LTD.,96245463,contact7@synthetic-sme.example.com,801881,2026,Active
+LEG_0302,Apex Euro Parts 26 PTE. LTD.,84127564,contact302@synthetic-sme.example.com,359202,2020,Active
+LEG_0165,Toa Payoh Optical 14,87684074,contact165@synthetic-sme.example.com,223676,2017,Active
+LEG_0308,Woodlands Hardware 26 Pte Ltd,85700872,contact308@synthetic-sme.example.com,383485,2018,Active
+LEG_0045,Toa Payoh Optical 4 PTE. LTD.,81700837,contact45@synthetic-sme.example.com,107456,2023,Active
+LEG_0299,Bedok Catering Co 25 PTE. LTD.,97043474,contact299@synthetic-sme.example.com,231312,2019,Active
+LEG_0230,Apex Euro Parts 20 PTE. LTD.,93260430,contact230@synthetic-sme.example.com,421646,2019,Active
+LEG_0488,TAN AH KOW MOTOR 15 PTE. LTD.,65-97044941,,S(815222),2024,Active
+LEG_0408,BUKIT MERAH WELLNESS 8,+65 8346 3987,,1737,2022,Duplicate?
+LEG_0031,Tampines Cold Chain 3 Pte Ltd,92743602,contact31@synthetic-sme.example.com,369810,2024,Active
+LEG_0120,Tan Ah Kow Motor 11 Enterprise,91964069,contact120@synthetic-sme.example.com,329099,2018,Active
+LEG_0258,Kallang Marine Supply 22 PTE. LTD.,97917972,contact258@synthetic-sme.example.com,656299,2026,Active
+LEG_0232,Bukit Merah Wellness 20 Enterprise,94183910,contact232@synthetic-sme.example.com,824057,2021,Active
+LEG_0076,Bukit Merah Wellness 7 Co.,93916715,contact76@synthetic-sme.example.com,587201,2023,Active
+LEG_0346,APEX EURO PARTS 3,65-91414493,contact26@synthetic-sme.example.com,S(767143),2015,Dormant
+LEG_0393,Lim  Mei  Ling  Trading  7,+65 8968 8672,contact73@synthetic-sme.example.com,,2021,Active
+LEG_0495,Tampines  Cold  Chain  15,+65 8371 7900,contact175@synthetic-sme.example.com,5347,2022,Dormant
+LEG_0006,Kallang Marine Supply 1,91788191,contact6@synthetic-sme.example.com,587349,2019,Active
+LEG_0284,Woodlands Hardware 24,96425946,contact284@synthetic-sme.example.com,212843,2024,Active
+LEG_0446,KALLANG MARINE SUPPLY 11 PTE. LTD.,65-94360650,contact126@synthetic-sme.example.com,,2014,Active
+LEG_0412,WOODLANDS HARDWARE 8,+65 8789 1524,,,2012,Duplicate?
+LEG_0126,Kallang Marine Supply 11 PTE. LTD.,94360650,contact126@synthetic-sme.example.com,761251,2016,Active
+LEG_0404,TAN AH KOW MOTOR 8 PTE. LTD.,+65 9654 0252,,S(248889),2022,Duplicate?
+LEG_0369,Lim  Mei  Ling  Trading  5,+65 8292 3047,contact49@synthetic-sme.example.com,3318,2020,Duplicate?
+LEG_0423,Tampines  Cold  Chain  9,9490-0918,contact103@synthetic-sme.example.com,,2019,Active
+LEG_0370,APEX EURO PARTS 5,9222-7162,contact50@synthetic-sme.example.com,,2025,Duplicate?
+LEG_0125,Geylang Tyre & Battery 11 PTE. LTD.,97701385,contact125@synthetic-sme.example.com,557474,2020,Active
+LEG_0390,CLEMENTI DENTAL CARE 6,8911-1841,contact70@synthetic-sme.example.com,5516,2015,Active
+LEG_0298,Clementi Dental Care 25 PTE. LTD.,91139824,contact298@synthetic-sme.example.com,187367,2023,Active
+LEG_0097,Lim Mei Ling Trading 9 Enterprise,91654924,contact97@synthetic-sme.example.com,789246,2025,Active
+LEG_0304,Bukit Merah Wellness 26 Pte Ltd,96596369,contact304@synthetic-sme.example.com,727445,2017,Active
+LEG_0051,Sentosa Precision Auto 5 Enterprise,92647562,contact51@synthetic-sme.example.com,358982,2023,Active
+LEG_0241,Lim Mei Ling Trading 21,92853280,contact241@synthetic-sme.example.com,229572,2025,Active
+LEG_0361,Geylang  Tyre  &  Battery  4,9762-8900,contact41@synthetic-sme.example.com,,2013,Active
+LEG_0358,APEX EURO PARTS 4,+65 8206 0950,contact38@synthetic-sme.example.com,S(152189),2025,Dormant
+LEG_0181,Lim Mei Ling Trading 16 Enterprise,82603125,contact181@synthetic-sme.example.com,188752,2021,Active
+LEG_0365,Toa  Payoh  Optical  4 PTE. LTD.,65-81700837,contact45@synthetic-sme.example.com,S(107456),2021,Dormant
+LEG_0267,Sentosa Precision Auto 23 Pte Ltd,84908993,contact267@synthetic-sme.example.com,425920,2026,Active
+LEG_0262,Clementi Dental Care 22 Co.,86064062,contact262@synthetic-sme.example.com,105920,2021,Active
+LEG_0224,Woodlands Hardware 19,93600333,contact224@synthetic-sme.example.com,572466,2017,Active
+LEG_0069,Toa Payoh Optical 6 Pte Ltd,88486336,contact69@synthetic-sme.example.com,303935,2022,Active
+LEG_0471,Tampines  Cold  Chain  13,8867-0476,contact151@synthetic-sme.example.com,2594,2014,Dormant
+LEG_0384,BUKIT MERAH WELLNESS 6,65-81614990,,8052,2014,Duplicate?
+LEG_0001,Lim Mei Ling Trading 1 PTE. LTD.,81949670,contact1@synthetic-sme.example.com,355374,2018,Active
+LEG_0219,Sentosa Precision Auto 19 Co.,85249882,contact219@synthetic-sme.example.com,715895,2018,Active
+LEG_0368,TAN AH KOW MOTOR 5 PTE. LTD.,8408-6885,,3851,2022,Active
+LEG_0193,Lim Mei Ling Trading 17 Enterprise,91177097,contact193@synthetic-sme.example.com,109574,2016,Active
+LEG_0409,Geylang  Tyre  &  Battery  8,65-94020528,contact89@synthetic-sme.example.com,S(767642),2018,Duplicate?
+LEG_0486,CLEMENTI DENTAL CARE 14,+65 8461 4941,contact166@synthetic-sme.example.com,S(428807),2014,Active
+LEG_0333,Lim  Mei  Ling  Trading  2,65-95433204,contact13@synthetic-sme.example.com,2636,2017,Dormant
+LEG_0134,Apex Euro Parts 12 PTE. LTD.,86698561,contact134@synthetic-sme.example.com,688548,2016,Active
+LEG_0496,WOODLANDS HARDWARE 15,+65 9631 6334,,S(475382),2019,Active
+LEG_0432,BUKIT MERAH WELLNESS 10,9614-4785,,S(547522),2020,Duplicate?
+LEG_0053,Geylang Tyre & Battery 5 Co.,85783807,contact53@synthetic-sme.example.com,184170,2025,Active
+LEG_0492,BUKIT MERAH WELLNESS 15,9849-8243,,,2023,Active
+LEG_0239,Bedok Catering Co 20 Co.,94185480,contact239@synthetic-sme.example.com,779151,2018,Active
+LEG_0153,Toa Payoh Optical 13,87365745,contact153@synthetic-sme.example.com,226331,2020,Active
+LEG_0380,TAN AH KOW MOTOR 6 PTE. LTD.,9917-0024,,,2016,Dormant
+LEG_0379,Bedok  Catering  Co  5,9876-5307,contact59@synthetic-sme.example.com,,2026,Duplicate?
+LEG_0035,Bedok Catering Co 3,84819259,contact35@synthetic-sme.example.com,437678,2022,Active
+LEG_0334,APEX EURO PARTS 2,65-91094709,contact14@synthetic-sme.example.com,,2012,Active
+LEG_0236,Woodlands Hardware 20 Pte Ltd,98618181,contact236@synthetic-sme.example.com,109289,2017,Active
+LEG_0108,Tan Ah Kow Motor 10 Pte Ltd,95255251,contact108@synthetic-sme.example.com,439783,2020,Active
+LEG_0498,CLEMENTI DENTAL CARE 15,65-97945583,contact178@synthetic-sme.example.com,,2025,Active
+LEG_0206,Apex Euro Parts 18,84119515,contact206@synthetic-sme.example.com,235622,2021,Active
+LEG_0397,Geylang  Tyre  &  Battery  7,+65 9230 5896,contact77@synthetic-sme.example.com,S(765121),2017,Dormant
+LEG_0073,Lim Mei Ling Trading 7 PTE. LTD.,89688672,contact73@synthetic-sme.example.com,567358,2019,Active
+LEG_0235,Tampines Cold Chain 20 Co.,95960564,contact235@synthetic-sme.example.com,439873,2023,Active
+LEG_0437,Toa  Payoh  Optical  10 PTE. LTD.,+65 8891 3286,contact117@synthetic-sme.example.com,6524,2015,Active
+LEG_0476,TAN AH KOW MOTOR 14 PTE. LTD.,+65 9713 9188,,,2025,Dormant
+LEG_0439,Bedok  Catering  Co  10,8163-3429,contact119@synthetic-sme.example.com,5975,2024,Duplicate?
+LEG_0268,Bukit Merah Wellness 23,87707501,contact268@synthetic-sme.example.com,824562,2022,Active
+LEG_0474,CLEMENTI DENTAL CARE 13,+65 9535 7055,contact154@synthetic-sme.example.com,3399,2014,Duplicate?
+LEG_0464,TAN AH KOW MOTOR 13 PTE. LTD.,8697-3148,,2927,2018,Duplicate?
+LEG_0392,TAN AH KOW MOTOR 7 PTE. LTD.,9719-8093,,3917,2013,Duplicate?
+LEG_0022,Clementi Dental Care 2 Co.,94664903,contact22@synthetic-sme.example.com,778780,2025,Active
+LEG_0143,Bedok Catering Co 12,94469169,contact143@synthetic-sme.example.com,394322,2016,Active
+LEG_0223,Tampines Cold Chain 19 Enterprise,95078362,contact223@synthetic-sme.example.com,111688,2019,Active
+LEG_0114,Kallang Marine Supply 10,82682396,contact114@synthetic-sme.example.com,379328,2017,Active
+LEG_0326,KALLANG MARINE SUPPLY 1 PTE. LTD.,+65 9178 8191,contact6@synthetic-sme.example.com,S(587349),2026,Active
+LEG_0327,Tampines  Cold  Chain  1,+65 9624 5463,contact7@synthetic-sme.example.com,,2019,Active
+LEG_0088,Bukit Merah Wellness 8 Pte Ltd,83463987,contact88@synthetic-sme.example.com,173725,2018,Active
+LEG_0072,Tan Ah Kow Motor 7 PTE. LTD.,97198093,contact72@synthetic-sme.example.com,391701,2017,Active
+LEG_0003,Sentosa Precision Auto 1,85951637,contact3@synthetic-sme.example.com,369866,2020,Active
+LEG_0095,Bedok Catering Co 8 Pte Ltd,82821504,contact95@synthetic-sme.example.com,124315,2022,Active
+LEG_0098,Apex Euro Parts 9,82563468,contact98@synthetic-sme.example.com,713135,2025,Active
+LEG_0315,Sentosa Precision Auto 27 Enterprise,93435253,contact315@synthetic-sme.example.com,823589,2019,Active
+LEG_0109,Lim Mei Ling Trading 10 Enterprise,97134489,contact109@synthetic-sme.example.com,457511,2024,Active
+LEG_0484,WOODLANDS HARDWARE 14,65-99164132,,S(485111),2025,Duplicate?
+LEG_0183,Sentosa Precision Auto 16,82743629,contact183@synthetic-sme.example.com,433544,2026,Active
+LEG_0037,Lim Mei Ling Trading 4 Co.,91283383,contact37@synthetic-sme.example.com,592938,2024,Active
+LEG_0203,Bedok Catering Co 17 Pte Ltd,85858602,contact203@synthetic-sme.example.com,248460,2025,Active
+LEG_0184,Bukit Merah Wellness 16 PTE. LTD.,87540534,contact184@synthetic-sme.example.com,494757,2019,Active
+LEG_0352,WOODLANDS HARDWARE 3,9220-9981,,S(291389),2025,Dormant
+LEG_0311,Bedok Catering Co 26,83562705,contact311@synthetic-sme.example.com,646118,2018,Active
+LEG_0251,Bedok Catering Co 21,89715516,contact251@synthetic-sme.example.com,222658,2018,Active
+LEG_0270,Kallang Marine Supply 23 Pte Ltd,92599943,contact270@synthetic-sme.example.com,481612,2017,Active
+LEG_0201,Toa Payoh Optical 17 PTE. LTD.,95776085,contact201@synthetic-sme.example.com,785404,2018,Active
+LEG_0398,KALLANG MARINE SUPPLY 7 PTE. LTD.,9473-9628,contact78@synthetic-sme.example.com,,2020,Active
+LEG_0275,Bedok Catering Co 23,86483324,contact275@synthetic-sme.example.com,744617,2020,Active
+LEG_0042,Kallang Marine Supply 4 PTE. LTD.,89950103,contact42@synthetic-sme.example.com,383234,2022,Active
+LEG_0366,CLEMENTI DENTAL CARE 4,65-86111869,contact46@synthetic-sme.example.com,S(366633),2023,Duplicate?
+LEG_0100,Bukit Merah Wellness 9 Co.,91728773,contact100@synthetic-sme.example.com,778028,2025,Active
+LEG_0142,Clementi Dental Care 12 Co.,94349848,contact142@synthetic-sme.example.com,404965,2025,Active
+LEG_0113,Geylang Tyre & Battery 10 Pte Ltd,82997927,contact113@synthetic-sme.example.com,398317,2025,Active
+LEG_0414,CLEMENTI DENTAL CARE 8,65-84855635,contact94@synthetic-sme.example.com,5873,2013,Active
+LEG_0099,Sentosa Precision Auto 9,88239315,contact99@synthetic-sme.example.com,767892,2018,Active
+LEG_0468,BUKIT MERAH WELLNESS 13,+65 9767 5310,,3831,2026,Duplicate?
+LEG_0388,WOODLANDS HARDWARE 6,+65 8500 7754,,S(319423),2018,Duplicate?
+LEG_0047,Bedok Catering Co 4,87923193,contact47@synthetic-sme.example.com,753333,2017,Active
+LEG_0182,Apex Euro Parts 16 PTE. LTD.,81442329,contact182@synthetic-sme.example.com,609584,2017,Active
+LEG_0228,Tan Ah Kow Motor 20 Co.,94903632,contact228@synthetic-sme.example.com,506690,2020,Active
+LEG_0112,Bukit Merah Wellness 10,96144785,contact112@synthetic-sme.example.com,547522,2016,Active
+LEG_0205,Lim Mei Ling Trading 18 Pte Ltd,91325400,contact205@synthetic-sme.example.com,291813,2019,Active
+LEG_0301,Lim Mei Ling Trading 26 Enterprise,86292472,contact301@synthetic-sme.example.com,729709,2022,Active
+LEG_0157,Lim Mei Ling Trading 14 PTE. LTD.,94532148,contact157@synthetic-sme.example.com,637099,2025,Active
+LEG_0323,Sentosa  Precision  Auto  1 PTE. LTD.,+65 8595 1637,contact3@synthetic-sme.example.com,S(369866),2019,Active
+LEG_0071,Bedok Catering Co 6 Co.,89181277,contact71@synthetic-sme.example.com,392029,2020,Active
+LEG_0456,BUKIT MERAH WELLNESS 12,65-87420191,,,2014,Active
+LEG_0245,Geylang Tyre & Battery 21,99821818,contact245@synthetic-sme.example.com,421804,2026,Active
+LEG_0430,APEX EURO PARTS 10,+65 8793 2818,contact110@synthetic-sme.example.com,8089,2017,Active
+LEG_0173,Geylang Tyre & Battery 15 PTE. LTD.,98780468,contact173@synthetic-sme.example.com,283745,2017,Active
+LEG_0226,Clementi Dental Care 19 PTE. LTD.,92007511,contact226@synthetic-sme.example.com,176824,2017,Active
+LEG_0309,Toa Payoh Optical 26 Co.,97590872,contact309@synthetic-sme.example.com,272438,2023,Active
+LEG_0148,Bukit Merah Wellness 13 PTE. LTD.,97675310,contact148@synthetic-sme.example.com,383101,2023,Active
+LEG_0375,Tampines  Cold  Chain  5,+65 9355 6763,contact55@synthetic-sme.example.com,,2021,Active
+LEG_0485,Toa  Payoh  Optical  14 PTE. LTD.,+65 8768 4074,contact165@synthetic-sme.example.com,2236,2018,Active
+LEG_0169,Lim Mei Ling Trading 15 Co.,91332781,contact169@synthetic-sme.example.com,622986,2019,Active
+LEG_0259,Tampines Cold Chain 22 Pte Ltd,84589118,contact259@synthetic-sme.example.com,585162,2025,Active
+LEG_0279,Sentosa Precision Auto 24 Enterprise,88983516,contact279@synthetic-sme.example.com,169980,2020,Active
+LEG_0002,Apex Euro Parts 1 Pte Ltd,85808610,contact2@synthetic-sme.example.com,423399,2025,Active
+LEG_0079,Tampines Cold Chain 7 Co.,96788681,contact79@synthetic-sme.example.com,728898,2019,Active
+LEG_0163,Tampines Cold Chain 14,93256060,contact163@synthetic-sme.example.com,769748,2025,Active
+LEG_0378,CLEMENTI DENTAL CARE 5,+65 9703 1174,contact58@synthetic-sme.example.com,2764,2022,Active
+LEG_0074,Apex Euro Parts 7 Pte Ltd,98627651,contact74@synthetic-sme.example.com,151653,2025,Active
+LEG_0255,Sentosa Precision Auto 22 Co.,92746548,contact255@synthetic-sme.example.com,313955,2022,Active
+LEG_0207,Sentosa Precision Auto 18,93097809,contact207@synthetic-sme.example.com,661134,2021,Active
+LEG_0012,Tan Ah Kow Motor 2 Enterprise,87328336,contact12@synthetic-sme.example.com,158020,2018,Active
+LEG_0413,Toa  Payoh  Optical  8 PTE. LTD.,+65 9381 3903,contact93@synthetic-sme.example.com,S(538429),2021,Duplicate?
+LEG_0154,Clementi Dental Care 13,95357055,contact154@synthetic-sme.example.com,339987,2026,Active
+LEG_0273,Toa Payoh Optical 23 Pte Ltd,81191837,contact273@synthetic-sme.example.com,581886,2018,Active
+LEG_0083,Bedok Catering Co 7 Pte Ltd,87077092,contact83@synthetic-sme.example.com,254773,2025,Active
+LEG_0441,Lim  Mei  Ling  Trading  11,+65 9117 9690,contact121@synthetic-sme.example.com,,2026,Duplicate?
+LEG_0229,Lim Mei Ling Trading 20 Co.,94237420,contact229@synthetic-sme.example.com,127189,2023,Active
+LEG_0489,Lim  Mei  Ling  Trading  15,+65 9133 2781,contact169@synthetic-sme.example.com,6229,2020,Dormant
+LEG_0337,Geylang  Tyre  &  Battery  2,65-86332789,contact17@synthetic-sme.example.com,S(774603),2014,Active
+LEG_0418,APEX EURO PARTS 9,+65 8256 3468,contact98@synthetic-sme.example.com,7131,2013,Duplicate?
+LEG_0382,APEX EURO PARTS 6,8541-6344,contact62@synthetic-sme.example.com,1922,2026,Dormant
+LEG_0017,Geylang Tyre & Battery 2 Co.,86332789,contact17@synthetic-sme.example.com,774603,2016,Active
+LEG_0448,WOODLANDS HARDWARE 11,9682-9664,,4547,2021,Duplicate?
+LEG_0105,Toa Payoh Optical 9 Co.,89766777,contact105@synthetic-sme.example.com,259515,2024,Active
+LEG_0094,Clementi Dental Care 8 Pte Ltd,84855635,contact94@synthetic-sme.example.com,587315,2016,Active
+LEG_0189,Toa Payoh Optical 16,83970181,contact189@synthetic-sme.example.com,688126,2017,Active
+LEG_0343,Bedok  Catering  Co  2,+65 8292 4714,contact23@synthetic-sme.example.com,S(548301),2013,Active
+LEG_0225,Toa Payoh Optical 19 Co.,83645741,contact225@synthetic-sme.example.com,732497,2025,Active
+LEG_0064,Bukit Merah Wellness 6,81614990,contact64@synthetic-sme.example.com,805269,2022,Active
+LEG_0478,APEX EURO PARTS 14,+65 9772 0828,contact158@synthetic-sme.example.com,4583,2021,Duplicate?
+LEG_0162,Kallang Marine Supply 14,91163448,contact162@synthetic-sme.example.com,327906,2018,Active
+LEG_0021,Toa Payoh Optical 2 Pte Ltd,86568081,contact21@synthetic-sme.example.com,526911,2018,Active
+LEG_0059,Bedok Catering Co 5 Co.,98765307,contact59@synthetic-sme.example.com,676877,2026,Active
+LEG_0121,Lim Mei Ling Trading 11,91179690,contact121@synthetic-sme.example.com,359489,2025,Active
+LEG_0452,TAN AH KOW MOTOR 12 PTE. LTD.,65-92963085,,S(755222),2020,Duplicate?
+LEG_0078,Kallang Marine Supply 7 Pte Ltd,94739628,contact78@synthetic-sme.example.com,767649,2025,Active
+LEG_0453,Lim  Mei  Ling  Trading  12,65-98428425,contact133@synthetic-sme.example.com,S(588923),2022,Duplicate?
+LEG_0093,Toa Payoh Optical 8 Enterprise,93813903,contact93@synthetic-sme.example.com,538429,2021,Active
+LEG_0146,Apex Euro Parts 13 Co.,89091518,contact146@synthetic-sme.example.com,576167,2023,Active
+LEG_0274,Clementi Dental Care 23 PTE. LTD.,99797692,contact274@synthetic-sme.example.com,156231,2023,Active
+LEG_0082,Clementi Dental Care 7 Co.,94548668,contact82@synthetic-sme.example.com,294062,2023,Active
+LEG_0490,APEX EURO PARTS 15,65-94337963,contact170@synthetic-sme.example.com,S(783859),2025,Duplicate?
+LEG_0085,Lim Mei Ling Trading 8 PTE. LTD.,99036641,contact85@synthetic-sme.example.com,363641,2024,Active
+LEG_0233,Geylang Tyre & Battery 20 Co.,96430463,contact233@synthetic-sme.example.com,695510,2018,Active
+LEG_0145,Lim Mei Ling Trading 13 Enterprise,82316802,contact145@synthetic-sme.example.com,731108,2021,Active
+LEG_0427,Bedok  Catering  Co  9,65-97077878,contact107@synthetic-sme.example.com,S(233535),2014,Active
+LEG_0387,Tampines  Cold  Chain  6,+65 8765 6950,contact67@synthetic-sme.example.com,5692,2013,Dormant
+LEG_0024,Tan Ah Kow Motor 3 Co.,85090740,contact24@synthetic-sme.example.com,156258,2019,Active
+LEG_0394,APEX EURO PARTS 7,65-98627651,contact74@synthetic-sme.example.com,1516,2012,Dormant
+LEG_0419,Sentosa  Precision  Auto  9 PTE. LTD.,8823-9315,contact99@synthetic-sme.example.com,S(767892),2020,Dormant
+LEG_0247,Tampines Cold Chain 21,89244416,contact247@synthetic-sme.example.com,208668,2023,Active
+LEG_0116,Woodlands Hardware 10 Enterprise,87528076,contact116@synthetic-sme.example.com,102492,2022,Active
+LEG_0133,Lim Mei Ling Trading 12,98428425,contact133@synthetic-sme.example.com,588923,2026,Active
+LEG_0087,Sentosa Precision Auto 8,83703298,contact87@synthetic-sme.example.com,279399,2019,Active
+LEG_0156,Tan Ah Kow Motor 14,97139188,contact156@synthetic-sme.example.com,339171,2016,Active
+LEG_0469,Geylang  Tyre  &  Battery  13,+65 8982 0377,contact149@synthetic-sme.example.com,6488,2021,Dormant
+LEG_0290,Apex Euro Parts 25 Pte Ltd,81914996,contact290@synthetic-sme.example.com,413419,2020,Active
+LEG_0155,Bedok Catering Co 13 Enterprise,94978534,contact155@synthetic-sme.example.com,448722,2024,Active
+LEG_0399,Tampines  Cold  Chain  7,65-96788681,contact79@synthetic-sme.example.com,7288,2018,Dormant
+LEG_0372,BUKIT MERAH WELLNESS 5,+65 9699 1787,,S(264842),2019,Dormant
+LEG_0280,Bukit Merah Wellness 24,95404991,contact280@synthetic-sme.example.com,207529,2026,Active
+LEG_0487,Bedok  Catering  Co  14,+65 8854 7311,contact167@synthetic-sme.example.com,5252,2012,Duplicate?
+LEG_0340,WOODLANDS HARDWARE 2,+65 9254 2590,,,2020,Duplicate?
+LEG_0303,Sentosa Precision Auto 26 PTE. LTD.,91360516,contact303@synthetic-sme.example.com,155053,2018,Active
+LEG_0416,TAN AH KOW MOTOR 9 PTE. LTD.,65-93509220,,,2012,Dormant
+LEG_0167,Bedok Catering Co 14 Pte Ltd,88547311,contact167@synthetic-sme.example.com,525256,2020,Active
+LEG_0411,Tampines  Cold  Chain  8,+65 9890 9005,contact91@synthetic-sme.example.com,S(713794),2019,Active
+LEG_0335,Sentosa  Precision  Auto  2 PTE. LTD.,8167-0091,contact15@synthetic-sme.example.com,S(296285),2016,Active
+LEG_0175,Tampines Cold Chain 15 PTE. LTD.,83717900,contact175@synthetic-sme.example.com,534739,2017,Active
+LEG_0296,Woodlands Hardware 25 Co.,85285846,contact296@synthetic-sme.example.com,311984,2024,Active
+LEG_0210,Kallang Marine Supply 18 PTE. LTD.,99361693,contact210@synthetic-sme.example.com,578597,2018,Active
+LEG_0443,Sentosa  Precision  Auto  11 PTE. LTD.,65-83843451,contact123@synthetic-sme.example.com,S(146893),2024,Dormant
+LEG_0371,Sentosa  Precision  Auto  5 PTE. LTD.,+65 9264 7562,contact51@synthetic-sme.example.com,3589,2013,Active
+LEG_0383,Sentosa  Precision  Auto  6 PTE. LTD.,65-89509040,contact63@synthetic-sme.example.com,S(137637),2026,Active
+LEG_0118,Clementi Dental Care 10 Enterprise,85413951,contact118@synthetic-sme.example.com,387075,2024,Active
+LEG_0431,Sentosa  Precision  Auto  10 PTE. LTD.,8721-1142,contact111@synthetic-sme.example.com,8189,2017,Duplicate?
+LEG_0420,BUKIT MERAH WELLNESS 9,9172-8773,,S(778028),2014,Active
+LEG_0400,WOODLANDS HARDWARE 7,8941-9427,,,2020,Duplicate?
+LEG_0407,Sentosa  Precision  Auto  8 PTE. LTD.,8370-3298,contact87@synthetic-sme.example.com,,2014,Active
+LEG_0010,Clementi Dental Care 1 PTE. LTD.,85935483,contact10@synthetic-sme.example.com,673906,2024,Active
+LEG_0330,CLEMENTI DENTAL CARE 1,65-85935483,contact10@synthetic-sme.example.com,S(673906),2012,Dormant
+LEG_0227,Bedok Catering Co 19 Co.,89998515,contact227@synthetic-sme.example.com,233061,2017,Active
+LEG_0215,Bedok Catering Co 18 Pte Ltd,98431651,contact215@synthetic-sme.example.com,411549,2023,Active
+LEG_0177,Toa Payoh Optical 15 Pte Ltd,95550787,contact177@synthetic-sme.example.com,666950,2023,Active
+LEG_0242,Apex Euro Parts 21 PTE. LTD.,81734460,contact242@synthetic-sme.example.com,263926,2024,Active
+LEG_0067,Tampines Cold Chain 6 PTE. LTD.,87656950,contact67@synthetic-sme.example.com,569227,2018,Active
+LEG_0479,Sentosa  Precision  Auto  14 PTE. LTD.,8320-0150,contact159@synthetic-sme.example.com,S(392636),2026,Duplicate?
+LEG_0349,Geylang  Tyre  &  Battery  3,+65 8380 8418,contact29@synthetic-sme.example.com,7897,2024,Dormant
+LEG_0213,Toa Payoh Optical 18,94046805,contact213@synthetic-sme.example.com,345097,2023,Active
+LEG_0150,Kallang Marine Supply 13 Co.,89430135,contact150@synthetic-sme.example.com,547450,2024,Active
+LEG_0011,Bedok Catering Co 1,84136946,contact11@synthetic-sme.example.com,329418,2023,Active
+LEG_0493,Geylang  Tyre  &  Battery  15,65-98780468,contact173@synthetic-sme.example.com,,2014,Dormant
+LEG_0266,Apex Euro Parts 23 Pte Ltd,83322104,contact266@synthetic-sme.example.com,437014,2025,Active
+LEG_0445,Geylang  Tyre  &  Battery  11,9770-1385,contact125@synthetic-sme.example.com,5574,2020,Dormant
+LEG_0077,Geylang Tyre & Battery 7 Co.,92305896,contact77@synthetic-sme.example.com,765121,2024,Active
+LEG_0254,Apex Euro Parts 22 PTE. LTD.,92770234,contact254@synthetic-sme.example.com,558515,2025,Active
+LEG_0075,Sentosa Precision Auto 7 Enterprise,92731828,contact75@synthetic-sme.example.com,765480,2016,Active
+LEG_0356,TAN AH KOW MOTOR 4 PTE. LTD.,9856-8632,,,2018,Active
+LEG_0057,Toa Payoh Optical 5 PTE. LTD.,95130133,contact57@synthetic-sme.example.com,388145,2017,Active
+LEG_0422,KALLANG MARINE SUPPLY 9 PTE. LTD.,+65 8813 8527,contact102@synthetic-sme.example.com,S(275170),2014,Dormant
+LEG_0084,Tan Ah Kow Motor 8,96540252,contact84@synthetic-sme.example.com,248889,2016,Active
+LEG_0055,Tampines Cold Chain 5 Pte Ltd,93556763,contact55@synthetic-sme.example.com,826971,2020,Active
+LEG_0039,Sentosa Precision Auto 4 Enterprise,99436204,contact39@synthetic-sme.example.com,235748,2023,Active
+LEG_0147,Sentosa Precision Auto 13 Pte Ltd,95609255,contact147@synthetic-sme.example.com,723996,2026,Active
+LEG_0091,Tampines Cold Chain 8 PTE. LTD.,98909005,contact91@synthetic-sme.example.com,713794,2016,Active
+LEG_0200,Woodlands Hardware 17 Pte Ltd,88084001,contact200@synthetic-sme.example.com,409464,2020,Active
+LEG_0473,Toa  Payoh  Optical  13 PTE. LTD.,+65 8736 5745,contact153@synthetic-sme.example.com,S(226331),2017,Dormant
+LEG_0044,Woodlands Hardware 4 Pte Ltd,91187069,contact44@synthetic-sme.example.com,803316,2024,Active
+LEG_0234,Kallang Marine Supply 20 Enterprise,82155557,contact234@synthetic-sme.example.com,773539,2021,Active
+LEG_0096,Tan Ah Kow Motor 9 PTE. LTD.,93509220,contact96@synthetic-sme.example.com,223906,2018,Active
+LEG_0033,Toa Payoh Optical 3 Co.,96565260,contact33@synthetic-sme.example.com,142433,2016,Active
+LEG_0354,CLEMENTI DENTAL CARE 3,+65 8191 0467,contact34@synthetic-sme.example.com,,2019,Dormant
+LEG_0344,TAN AH KOW MOTOR 3 PTE. LTD.,+65 8509 0740,,S(156258),2023,Duplicate?
+LEG_0188,Woodlands Hardware 16 Enterprise,95570355,contact188@synthetic-sme.example.com,808288,2016,Active
+LEG_0472,WOODLANDS HARDWARE 13,65-96295749,,,2019,Active
+LEG_0417,Lim  Mei  Ling  Trading  9,+65 9165 4924,contact97@synthetic-sme.example.com,7892,2024,Active
+LEG_0149,Geylang Tyre & Battery 13 PTE. LTD.,89820377,contact149@synthetic-sme.example.com,648836,2026,Active
+LEG_0410,KALLANG MARINE SUPPLY 8 PTE. LTD.,8575-5579,contact90@synthetic-sme.example.com,S(204548),2017,Dormant
+LEG_0347,Sentosa  Precision  Auto  3 PTE. LTD.,+65 9916 7227,contact27@synthetic-sme.example.com,S(155856),2025,Duplicate?
+LEG_0272,Woodlands Hardware 23,98286418,contact272@synthetic-sme.example.com,632974,2026,Active
+LEG_0447,Tampines  Cold  Chain  11,8251-2732,contact127@synthetic-sme.example.com,,2021,Duplicate?
+LEG_0240,Tan Ah Kow Motor 21 Enterprise,85750117,contact240@synthetic-sme.example.com,517714,2021,Active
+LEG_0062,Apex Euro Parts 6,85416344,contact62@synthetic-sme.example.com,192235,2025,Active
+LEG_0269,Geylang Tyre & Battery 23 Enterprise,86447428,contact269@synthetic-sme.example.com,713832,2023,Active
+LEG_0256,Bukit Merah Wellness 22,99467339,contact256@synthetic-sme.example.com,533591,2021,Active
+LEG_0248,Woodlands Hardware 21 Co.,87055334,contact248@synthetic-sme.example.com,817814,2025,Active
+LEG_0231,Sentosa Precision Auto 20 PTE. LTD.,98340032,contact231@synthetic-sme.example.com,815828,2025,Active
+LEG_0176,Woodlands Hardware 15 Co.,96316334,contact176@synthetic-sme.example.com,475382,2024,Active
+LEG_0190,Clementi Dental Care 16 Enterprise,96824517,contact190@synthetic-sme.example.com,719841,2023,Active
+LEG_0032,Woodlands Hardware 3 Pte Ltd,92209981,contact32@synthetic-sme.example.com,291389,2023,Active
+LEG_0027,Sentosa Precision Auto 3 Co.,99167227,contact27@synthetic-sme.example.com,155856,2021,Active
+LEG_0141,Toa Payoh Optical 12 Enterprise,85514342,contact141@synthetic-sme.example.com,334115,2021,Active
+LEG_0216,Tan Ah Kow Motor 19 Pte Ltd,88731522,contact216@synthetic-sme.example.com,229538,2017,Active
+LEG_0348,BUKIT MERAH WELLNESS 3,65-86373956,,,2014,Active
+LEG_0257,Geylang Tyre & Battery 22,96911017,contact257@synthetic-sme.example.com,506319,2019,Active
+LEG_0136,Bukit Merah Wellness 12 Enterprise,87420191,contact136@synthetic-sme.example.com,384767,2017,Active
+LEG_0180,Tan Ah Kow Motor 16 Co.,84532803,contact180@synthetic-sme.example.com,317505,2024,Active
+LEG_0164,Woodlands Hardware 14 Co.,99164132,contact164@synthetic-sme.example.com,485111,2018,Active
+LEG_0115,Tampines Cold Chain 10 Co.,96678044,contact115@synthetic-sme.example.com,801852,2025,Active
+LEG_0389,Toa  Payoh  Optical  6 PTE. LTD.,8848-6336,contact69@synthetic-sme.example.com,3039,2013,Duplicate?
+LEG_0381,Lim  Mei  Ling  Trading  6,65-82375290,contact61@synthetic-sme.example.com,S(453293),2026,Duplicate?
+LEG_0436,WOODLANDS HARDWARE 10,+65 8752 8076,,S(102492),2017,Active
+LEG_0107,Bedok Catering Co 9 Co.,97077878,contact107@synthetic-sme.example.com,233535,2018,Active
+LEG_0359,Sentosa  Precision  Auto  4 PTE. LTD.,+65 9943 6204,contact39@synthetic-sme.example.com,2357,2026,Dormant
+LEG_0297,Toa Payoh Optical 25 PTE. LTD.,94367121,contact297@synthetic-sme.example.com,441869,2026,Active
+LEG_0483,Tampines  Cold  Chain  14,65-93256060,contact163@synthetic-sme.example.com,7697,2012,Active
+LEG_0377,Toa  Payoh  Optical  5 PTE. LTD.,9513-0133,contact57@synthetic-sme.example.com,,2013,Active
+LEG_0244,Bukit Merah Wellness 21 Pte Ltd,82656810,contact244@synthetic-sme.example.com,147366,2021,Active
+LEG_0332,TAN AH KOW MOTOR 2 PTE. LTD.,8732-8336,,1580,2021,Active
+LEG_0058,Clementi Dental Care 5 Pte Ltd,97031174,contact58@synthetic-sme.example.com,276432,2017,Active
+LEG_0276,Tan Ah Kow Motor 24 Co.,81847581,contact276@synthetic-sme.example.com,608300,2025,Active
+LEG_0122,Apex Euro Parts 11 Co.,94267304,contact122@synthetic-sme.example.com,149364,2024,Active
+LEG_0470,KALLANG MARINE SUPPLY 13 PTE. LTD.,+65 8943 0135,contact150@synthetic-sme.example.com,5474,2014,Duplicate?
+LEG_0070,Clementi Dental Care 6 Enterprise,89111841,contact70@synthetic-sme.example.com,551662,2020,Active
+LEG_0104,Woodlands Hardware 9 Co.,95325249,contact104@synthetic-sme.example.com,341089,2017,Active
+LEG_0396,BUKIT MERAH WELLNESS 7,+65 9391 6715,,S(587201),2018,Dormant
+LEG_0363,Tampines  Cold  Chain  4,9594-8917,contact43@synthetic-sme.example.com,S(285883),2025,Dormant
+LEG_0287,Bedok Catering Co 24 Enterprise,93839632,contact287@synthetic-sme.example.com,548245,2024,Active
+LEG_0034,Clementi Dental Care 3 PTE. LTD.,81910467,contact34@synthetic-sme.example.com,325127,2024,Active
+LEG_0497,Toa  Payoh  Optical  15 PTE. LTD.,9555-0787,contact177@synthetic-sme.example.com,S(666950),2012,Dormant
+LEG_0286,Clementi Dental Care 24 Enterprise,86381096,contact286@synthetic-sme.example.com,541396,2016,Active
+LEG_0331,Bedok  Catering  Co  1,8413-6946,contact11@synthetic-sme.example.com,,2019,Dormant
+LEG_0089,Geylang Tyre & Battery 8 PTE. LTD.,94020528,contact89@synthetic-sme.example.com,767642,2016,Active
+LEG_0455,Sentosa  Precision  Auto  12 PTE. LTD.,+65 8908 6117,contact135@synthetic-sme.example.com,S(245224),2025,Dormant
+LEG_0459,Tampines  Cold  Chain  12,65-87692945,contact139@synthetic-sme.example.com,S(532245),2024,Dormant
+LEG_0020,Woodlands Hardware 2 PTE. LTD.,92542590,contact20@synthetic-sme.example.com,544624,2019,Active
+LEG_0316,Bukit Merah Wellness 27 PTE. LTD.,92137730,contact316@synthetic-sme.example.com,819732,2022,Active
+LEG_0238,Clementi Dental Care 20 Enterprise,86380354,contact238@synthetic-sme.example.com,189830,2023,Active
+LEG_0187,Tampines Cold Chain 16 Pte Ltd,86986802,contact187@synthetic-sme.example.com,518801,2016,Active
+LEG_0196,Bukit Merah Wellness 17 PTE. LTD.,88221506,contact196@synthetic-sme.example.com,474788,2019,Active
+LEG_0056,Woodlands Hardware 5 Enterprise,98185805,contact56@synthetic-sme.example.com,311079,2026,Active
+LEG_0026,Apex Euro Parts 3 Pte Ltd,91414493,contact26@synthetic-sme.example.com,767143,2025,Active
+LEG_0454,APEX EURO PARTS 12,65-86698561,contact134@synthetic-sme.example.com,,2015,Duplicate?
+LEG_0186,Kallang Marine Supply 16 Co.,89837269,contact186@synthetic-sme.example.com,311468,2024,Active
+LEG_0345,Lim  Mei  Ling  Trading  3,9290-2100,contact25@synthetic-sme.example.com,5952,2017,Duplicate?
+LEG_0465,Lim  Mei  Ling  Trading  13,8231-6802,contact145@synthetic-sme.example.com,S(731108),2026,Dormant
+LEG_0263,Bedok Catering Co 22,84604128,contact263@synthetic-sme.example.com,501355,2017,Active
+LEG_0028,Bukit Merah Wellness 3 Co.,86373956,contact28@synthetic-sme.example.com,752349,2025,Active
+LEG_0376,WOODLANDS HARDWARE 5,+65 9818 5805,,S(311079),2022,Duplicate?
+LEG_0171,Sentosa Precision Auto 15 Enterprise,96957741,contact171@synthetic-sme.example.com,519363,2019,Active
+LEG_0450,CLEMENTI DENTAL CARE 11,+65 9393 6596,contact130@synthetic-sme.example.com,S(629294),2015,Duplicate?
+LEG_0317,Geylang Tyre & Battery 27,84089276,contact317@synthetic-sme.example.com,503384,2016,Active
+LEG_0041,Geylang Tyre & Battery 4 Enterprise,97628900,contact41@synthetic-sme.example.com,138765,2023,Active
+LEG_0350,KALLANG MARINE SUPPLY 3 PTE. LTD.,65-82098434,contact30@synthetic-sme.example.com,,2022,Dormant
+LEG_0403,Bedok  Catering  Co  7,65-87077092,contact83@synthetic-sme.example.com,S(254773),2016,Dormant
+LEG_0106,Clementi Dental Care 9 Pte Ltd,87291957,contact106@synthetic-sme.example.com,366175,2020,Active
+LEG_0406,APEX EURO PARTS 8,+65 9137 6582,contact86@synthetic-sme.example.com,4117,2024,Dormant
+LEG_0294,Kallang Marine Supply 25 Enterprise,89778944,contact294@synthetic-sme.example.com,439991,2022,Active
+LEG_0277,Lim Mei Ling Trading 24,84725978,contact277@synthetic-sme.example.com,655747,2023,Active
+LEG_0313,Lim Mei Ling Trading 27 Co.,83324928,contact313@synthetic-sme.example.com,794314,2024,Active
+LEG_0357,Lim  Mei  Ling  Trading  4,9128-3383,contact37@synthetic-sme.example.com,5929,2019,Dormant
+LEG_0138,Kallang Marine Supply 12,85418274,contact138@synthetic-sme.example.com,415706,2024,Active
+LEG_0385,Geylang  Tyre  &  Battery  6,65-93493647,contact65@synthetic-sme.example.com,,2018,Dormant
+LEG_0218,Apex Euro Parts 19 Pte Ltd,93661058,contact218@synthetic-sme.example.com,159534,2022,Active
+LEG_0151,Tampines Cold Chain 13 Enterprise,88670476,contact151@synthetic-sme.example.com,259490,2023,Active
+LEG_0016,Bukit Merah Wellness 2 PTE. LTD.,86052539,contact16@synthetic-sme.example.com,726866,2016,Active
+LEG_0271,Tampines Cold Chain 23 PTE. LTD.,92316632,contact271@synthetic-sme.example.com,176478,2018,Active
+LEG_0170,Apex Euro Parts 15 Enterprise,94337963,contact170@synthetic-sme.example.com,783859,2023,Active
+LEG_0353,Toa  Payoh  Optical  3 PTE. LTD.,+65 9656 5260,contact33@synthetic-sme.example.com,S(142433),2016,Duplicate?
+LEG_0457,Geylang  Tyre  &  Battery  12,+65 9791 9359,contact137@synthetic-sme.example.com,,2022,Dormant
+LEG_0197,Geylang Tyre & Battery 17 Enterprise,87268704,contact197@synthetic-sme.example.com,347745,2020,Active
+LEG_0036,Tan Ah Kow Motor 4 Pte Ltd,98568632,contact36@synthetic-sme.example.com,618094,2024,Active
+LEG_0321,Lim  Mei  Ling  Trading  1,8194-9670,contact1@synthetic-sme.example.com,3553,2012,Duplicate?
+LEG_0440,TAN AH KOW MOTOR 11 PTE. LTD.,+65 9196 4069,,3290,2013,Duplicate?
+LEG_0000,Tan Ah Kow Motor 1 PTE. LTD.,81423996,contact0@synthetic-sme.example.com,583381,2017,Active
+LEG_0324,BUKIT MERAH WELLNESS 1,+65 8701 7692,,,2023,Active
+LEG_0360,BUKIT MERAH WELLNESS 4,65-92451316,,S(468170),2017,Active
+LEG_0237,Toa Payoh Optical 20 Co.,94112748,contact237@synthetic-sme.example.com,126965,2017,Active
+LEG_0320,TAN AH KOW MOTOR 1 PTE. LTD.,65-81423996,,5833,2026,Active

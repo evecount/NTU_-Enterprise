@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "required_fields": [
+    "event_id",
+    "client_id",
+    "source",
+    "timestamp",
+    "service_type",
+    "amount_sgd"
+  ],
+  "types": {
+    "event_id": "string",
+    "client_id": "string",
+    "source": "string",
+    "timestamp": "iso8601_datetime",
+    "service_type": "string",
+    "amount_sgd": "float_non_negative",
+    "priority": "string_optional"
+  },
+  "enums": {
+    "source": [
+      "intake_form",
+      "community_register",
+      "ops_note",
+      "webhook_crm"
+    ],
+    "priority": [
+      "low",
+      "normal",
+      "high"
+    ]
+  }
+}

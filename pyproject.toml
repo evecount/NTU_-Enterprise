@@ -1,0 +1,20 @@
+[project]
+name = "ntu-pace-cybrdeck-capstone"
+version = "1.0.0"
+description = "NTU PaCE x Cybrdeck Systems — 4-Week Applied Industry Project Sprints (SCTP DSAI)"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic>=2.6.0",
+    "duckdb>=1.0.0",
+    "rapidfuzz>=3.6.0",
+    "pytest>=8.0.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = [
+    "track-1-schema-parsing/tests",
+    "track-2-anomaly-triage/tests",
+    "track-3-sme-db-modernization/tests",
+    "track-4-bonus-agentic-qa/tests",
+]
+pythonpath = ["."]

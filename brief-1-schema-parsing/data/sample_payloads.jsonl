@@ -1,4 +1,0 @@
-{"event_id": "evt_1001", "source": "intake_form", "timestamp": "2026-11-20T09:15:00+08:00", "client": {"name": "Apex Auto Pte Ltd", "phone": "+65 9123 4567"}, "amount_sgd": 1250.50}
-{"event_id": "evt_1002", "source": "community_register", "timestamp": "2026-11-20 09:20:00", "client_name": "Lumina Beauty Studio", "phone": "82345678", "amount_sgd": "480.00"}
-{"event_id": null, "source": "ops_note", "timestamp": "invalid-date", "client": {"name": ""}, "amount_sgd": -50}
-{"source": "webhook_crm", "payload_version": 2, "client": {"name": "Harbour Logistics", "postal": "139951"}, "amount_sgd": "N/A"}

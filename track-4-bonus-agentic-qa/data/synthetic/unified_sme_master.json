@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "master_id": "CANON_0001",
+      "name": "Merlion Auto Works",
+      "tier": "Gold",
+      "vehicle_focus": "European",
+      "last_service": "2026-10-12"
+    },
+    {
+      "master_id": "CANON_0002",
+      "name": "Sentosa Precision Auto",
+      "tier": "Standard",
+      "vehicle_focus": "Japanese",
+      "last_service": "2026-09-04"
+    }
+  ],
+  "parts_catalog": [
+    {
+      "part_code": "EU-BRK-404",
+      "description": "Ceramic Brake Pad Set (Euro Series)",
+      "stock_qty": 14,
+      "unit_price_sgd": 240.0,
+      "warranty_months": 12
+    },
+    {
+      "part_code": "EU-ALT-901",
+      "description": "Alternator Assembly 140A",
+      "stock_qty": 0,
+      "unit_price_sgd": 890.0,
+      "warranty_months": 24
+    }
+  ]
+}
